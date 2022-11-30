@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoomadTARpv21", "LoomadTARpv21\LoomadTARpv21.csproj", "{46319267-9BDE-49D2-AA51-4DBE6D2A3346}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46319267-9BDE-49D2-AA51-4DBE6D2A3346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46319267-9BDE-49D2-AA51-4DBE6D2A3346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46319267-9BDE-49D2-AA51-4DBE6D2A3346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46319267-9BDE-49D2-AA51-4DBE6D2A3346}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB25AA92-DD95-49AC-A52F-9CEE45D13B01}
+	EndGlobalSection
+EndGlobal
